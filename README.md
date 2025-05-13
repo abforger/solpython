@@ -20,7 +20,7 @@ If you have any question or something, feel free to reach out me anytime via tel
 <br>
 #### 🌹 You're always welcome 🌹
 
-Telegram: [@Leo](https://t.me/shinnyleo0912) <br>
+Telegram: [@Leo](https://t.me/bohu61) <br>
 
 [![Run on Repl.it](https://replit.com/badge/github/sendaifun/solana-agent-kit)](https://replit.com/@sendaifun/Solana-Agent-Kit)
 > Replit template created by [Arpit Singh](https://github.com/The-x-35)
